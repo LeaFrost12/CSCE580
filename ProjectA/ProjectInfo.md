@@ -5,4 +5,6 @@
 
 **Note:** I choose to do only the first module of the project since the project is designed to be a long-term course.
 
+**Deliverables:** Linear_Regression.ipynb
+
 [Link to project page](http://modelai.gettysburg.edu/2023/deeplearning/)
