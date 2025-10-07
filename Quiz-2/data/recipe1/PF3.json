@@ -1,0 +1,708 @@
+{
+  "recipe_name": "candy-cane-brownie",
+  "food_role": [
+    "Dessert"
+  ],
+  "data_provenance": {
+    "source_url": "https://www.instructables.com/Unbeatable-Recipes-The-Candy-Cane-Brownie/",
+    "last_system_access": "2025-10-07 14:30:00"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {
+      "name": "butter",
+      "quantity": {
+        "measure": "0.5",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "0x6f01",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "margarine",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/butter.jpeg"
+    },
+    {
+      "name": "unsweetened chocolate",
+      "quantity": {
+        "measure": "2",
+        "unit": "ounces"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "bitter or dark chocolate",
+      "quality_characteristic": "chopped",
+      "image": "./images/candy-cane-brownie/ingredients/unsweetened-chocolate.jpeg"
+    },
+    {
+      "name": "eggs",
+      "quantity": {
+        "measure": "2",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "0x3eb1",
+        "category": [
+          "eggs"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informalleggs"
+        ],
+        "details": ""
+      },
+      "alternative": "flax egg (if needed)",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/eggs.jpeg"
+    },
+    {
+      "name": "granulated sugar",
+      "quantity": {
+        "measure": "1",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "coconut sugar",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/granulated-sugar.jpeg"
+    },
+    {
+      "name": "vanilla extract",
+      "quantity": {
+        "measure": "0.5",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/vanilla-extract.jpeg"
+    },
+    {
+      "name": "all-purpose flour",
+      "quantity": {
+        "measure": "0.33",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "0x7ff",
+        "category": [
+          "gluten"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallwheat"
+        ],
+        "details": ""
+      },
+      "alternative": "gluten-free flour blend",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/flour.jpeg"
+    },
+    {
+      "name": "cocoa powder",
+      "quantity": {
+        "measure": "0.33",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/cocoa-powder.jpeg"
+    },
+    {
+      "name": "salt",
+      "quantity": {
+        "measure": "0.25",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/salt.jpeg"
+    },
+    {
+      "name": "icing sugar (powdered sugar)",
+      "quantity": {
+        "measure": "1",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/icing-sugar.jpeg"
+    },
+    {
+      "name": "butter (for icing)",
+      "quantity": {
+        "measure": "2",
+        "unit": "tbsp"
+      },
+      "allergies": {
+        "id": "0x6f01",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "vegan butter",
+      "quality_characteristic": "softened",
+      "image": "./images/candy-cane-brownie/ingredients/softened-butter.jpeg"
+    },
+    {
+      "name": "milk",
+      "quantity": {
+        "measure": "2",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "0x6f01",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "plant-based milk",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/milk.jpeg"
+    },
+    {
+      "name": "peppermint extract",
+      "quantity": {
+        "measure": "1",
+        "unit": "teaspoon"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "",
+      "quality_characteristic": "",
+      "image": "./images/candy-cane-brownie/ingredients/peppermint-extract.jpeg"
+    },
+    {
+      "name": "mini candy canes",
+      "quantity": {
+        "measure": "4-12",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "crushed peppermint candies",
+      "quality_characteristic": "coarsely crushed",
+      "image": "./images/candy-cane-brownie/ingredients/mini-candy-canes.jpeg"
+    }
+  ],
+  "hasDairy": true,
+  "hasMeat": false,
+  "hasNuts": false,
+  "prep_time": "15 minutes",
+  "cook_time": "12 minutes",
+  "serves": "24 mini brownies",
+  "instructions": [
+    {
+      "original_text": "Line a mini-muffin pan with small paper liners. Preheat oven to 350°F (180°C). Place a small saucepan on low heat with about 2 inches of water.",
+      "input_condition": [
+        "have_mini_muffin_pan",
+        "have_oven",
+        "have_saucepan"
+      ],
+      "task": [
+        {
+          "action_name": "Line the mini-muffin pan with small paper liners.",
+          "output_quality": [
+            "Liners fit snugly in each cup."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "mini muffin pan",
+              "paper liners"
+            ],
+            "failure": [
+              "liners not fitted properly"
+            ]
+          }
+        },
+        {
+          "action_name": "Preheat the oven to 350°F (180°C).",
+          "output_quality": [
+            "Oven reaches target temperature before baking."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "oven"
+            ],
+            "failure": [
+              "oven underheated"
+            ]
+          }
+        },
+        {
+          "action_name": "Put about 2 inches of water in a saucepan and heat on low.",
+          "output_quality": [
+            "Water is hot but not boiling."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "saucepan"
+            ],
+            "failure": [
+              "water boiling vigorously"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "pan_lined",
+        "oven_preheated",
+        "water_heating"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step1_pan_preheat.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Melt the butter and chopped chocolate in a heatproof bowl set over the hot water until smooth. Remove from heat and let cool.",
+      "input_condition": [
+        "have_butter",
+        "have_unsweetened_chocolate",
+        "have_heatproof_bowl",
+        "water_heating"
+      ],
+      "task": [
+        {
+          "action_name": "Place butter and chopped chocolate in a heatproof bowl over the saucepan.",
+          "output_quality": [
+            "Bowl sits securely over saucepan without touching water."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "heatproof bowl",
+              "saucepan"
+            ],
+            "failure": [
+              "bowl touches water"
+            ]
+          }
+        },
+        {
+          "action_name": "Stir occasionally until butter and chocolate melt and the mixture is smooth.",
+          "output_quality": [
+            "Mixture is glossy and fully combined."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "spatula"
+            ],
+            "failure": [
+              "chocolate burned"
+            ]
+          }
+        },
+        {
+          "action_name": "Remove the bowl from heat and allow the chocolate mixture to cool.",
+          "output_quality": [
+            "Mixture cools enough that it will not cook the eggs when added."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": [
+              "chocolate too hot and cooks eggs"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "melted_chocolate_butter_cooled"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step2_melt_chocolate.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Whisk eggs and granulated sugar until creamy. Whisk the cooled chocolate mixture and vanilla into the eggs. Scrape bowl with a spatula to transfer all chocolate.",
+      "input_condition": [
+        "have_eggs",
+        "have_granulated_sugar",
+        "melted_chocolate_butter_cooled",
+        "have_vanilla_extract"
+      ],
+      "task": [
+        {
+          "action_name": "Whisk eggs and granulated sugar until creamy.",
+          "output_quality": [
+            "Mixture is light and slightly thickened."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "whisk",
+              "mixing bowl"
+            ],
+            "failure": [
+              "eggs under-whisked"
+            ]
+          }
+        },
+        {
+          "action_name": "Whisk in the cooled chocolate mixture and vanilla.",
+          "output_quality": [
+            "Chocolate evenly incorporated without cooking the eggs."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "spatula"
+            ],
+            "failure": [
+              "chocolate too warm and curdles eggs"
+            ]
+          }
+        },
+        {
+          "action_name": "Use a spatula to scrape any remaining chocolate from the bowl into the mixture.",
+          "output_quality": [
+            "All chocolate transferred to the batter."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "spatula"
+            ],
+            "failure": [
+              "leftover chocolate wasted"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "wet_ingredients_combined"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step3_whisk_eggs_chocolate.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Whisk flour, cocoa powder, and salt in a separate bowl. Add dry ingredients to the chocolate mixture and whisk to blend.",
+      "input_condition": [
+        "have_all-purpose_flour",
+        "have_cocoa_powder",
+        "have_salt",
+        "wet_ingredients_combined"
+      ],
+      "task": [
+        {
+          "action_name": "Whisk together flour, cocoa powder, and salt until evenly mixed.",
+          "output_quality": [
+            "Dry ingredients are uniform with no lumps."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "mixing bowl",
+              "whisk"
+            ],
+            "failure": [
+              "clumped dry ingredients"
+            ]
+          }
+        },
+        {
+          "action_name": "Add the dry mixture to the chocolate mixture and whisk until blended.",
+          "output_quality": [
+            "Batter is smooth and free of streaks."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "whisk",
+              "spatula"
+            ],
+            "failure": [
+              "overmixing"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "brownie_batter_ready"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step4_combine_dry_wet.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Spoon about 1 tablespoon of batter into each prepared mini-muffin liner. Bake at 350°F (180°C) for about 12 minutes or until a toothpick shows moist crumbs.",
+      "input_condition": [
+        "brownie_batter_ready",
+        "pan_lined",
+        "oven_preheated"
+      ],
+      "task": [
+        {
+          "action_name": "Spoon approximately 1 tablespoon of batter into each muffin cup.",
+          "output_quality": [
+            "Each cup filled evenly; some variation acceptable."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "tablespoon",
+              "mini muffin pan"
+            ],
+            "failure": [
+              "uneven filling"
+            ]
+          }
+        },
+        {
+          "action_name": "Bake the filled pan at 350°F (180°C) for about 12 minutes.",
+          "output_quality": [
+            "Brownies test with a toothpick that comes out with moist crumbs."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "oven",
+              "toothpick"
+            ],
+            "failure": [
+              "toothpick comes out wet (undercooked)",
+              "overbaked (dry)"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "baked_brownies"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step5_scoop_bake.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Allow the brownies to cool while preparing the icing.",
+      "input_condition": [
+        "baked_brownies"
+      ],
+      "task": [
+        {
+          "action_name": "Remove brownies from pan and cool completely.",
+          "output_quality": [
+            "Brownies are cooled to room temperature before icing."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "cooling rack"
+            ],
+            "failure": [
+              "icing melts if brownies are warm"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "cooled_brownies"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step6_cool_brownies.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Combine icing sugar, softened butter, milk, and peppermint extract in a small bowl and blend until soft and fluffy. Spread over cooled brownies.",
+      "input_condition": [
+        "have_icing_sugar",
+        "have_butter_for_icing",
+        "have_milk",
+        "have_peppermint_extract",
+        "cooled_brownies"
+      ],
+      "task": [
+        {
+          "action_name": "Mix icing sugar, softened butter, milk, and peppermint extract until soft and fluffy.",
+          "output_quality": [
+            "Icing is smooth and pipeable but not runny."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "mixing bowl",
+              "spoon or whisk"
+            ],
+            "failure": [
+              "icing too thin",
+              "butter not incorporated"
+            ]
+          }
+        },
+        {
+          "action_name": "Spread or pipe the icing onto cooled brownies leaving small brown edges visible.",
+          "output_quality": [
+            "Icing holds shape and does not melt."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "spatula",
+              "piping bag (optional)"
+            ],
+            "failure": [
+              "icing melts if brownies still warm"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "iced_brownies"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step7_ice_brownies.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Peel plastic from mini candy canes, coarsely crush them, and sprinkle over the icing.",
+      "input_condition": [
+        "iced_brownies",
+        "have_mini_candy_canes"
+      ],
+      "task": [
+        {
+          "action_name": "Peel plastic from the mini candy canes.",
+          "output_quality": [
+            "Candy canes free of wrappers."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": [
+              "wrapper fragments remain"
+            ]
+          }
+        },
+        {
+          "action_name": "Place candy canes in a bowl and coarsely crush them using the back of a utensil or a mallet.",
+          "output_quality": [
+            "Candy cane pieces are coarse, not powdered."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "bowl with high rim",
+              "mortar, rolling pin, or back of utensil"
+            ],
+            "failure": [
+              "pieces too fine or scattered"
+            ]
+          }
+        },
+        {
+          "action_name": "Sprinkle the crushed candy canes over the iced brownies.",
+          "output_quality": [
+            "Topping is evenly distributed."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "spoon"
+            ],
+            "failure": [
+              "topping uneven"
+            ]
+          }
+        }
+      ],
+      "output_condition": [
+        "topped_brownies"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/step8_crush_sprinkle.jpeg"
+        ],
+        "video": " "
+      }
+    },
+    {
+      "original_text": "Serve cooled and enjoy.",
+      "input_condition": [
+        "topped_brownies"
+      ],
+      "task": [
+        {
+          "action_name": "Arrange brownies on a serving plate and serve cooled.",
+          "output_quality": [
+            "Serve at room temperature for best texture."
+          ],
+          "background_knowledge": {
+            "tool": [
+              "serving plate"
+            ],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": [
+        "recipe_complete"
+      ],
+      "modality": {
+        "image": [
+          "./images/candy-cane-brownie/final_serving.jpeg"
+        ],
+        "video": " "
+      }
+    }
+  ]
+}
