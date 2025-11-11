@@ -94,7 +94,7 @@ class MCAgent:
             path = []
             final_path = []
             result_parent = result.parent
-            side = 0 # 0 = left, 1 = right
+            side = 1 # 0 = right, 1 = left
             while result_parent:
                 
                 move = (abs(result.left_missionaries - result_parent.left_missionaries),
