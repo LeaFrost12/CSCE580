@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "recipe_name": "chicken-fajita-pasta",
   "food_role": [
@@ -554,3 +555,561 @@
     }
   ]
 }
+=======
+{
+  "recipe_name": "chicken-fajita-pasta",
+  "food_role": [
+    "Main Course"
+  ],
+  "data_provenance": {
+    "source_url": "https://www.instructables.com/Chicken-Fajita-Pasta-Recipe/",
+    "last_system_access": "2025-10-07 00:00:00"
+  },
+  "macronutrients": {},
+  "ingredients": [
+    {
+      "name": "yellow bell pepper",
+      "quantity": {
+        "measure": "1",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "green bell pepper",
+      "quality_characteristic": "chopped",
+      "image": "./images/chicken-fajita-pasta/ingredients/yellowbellpepper.jpeg"
+    },
+    {
+      "name": "red bell pepper",
+      "quantity": {
+        "measure": "1",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "yellow bell pepper",
+      "quality_characteristic": "chopped",
+      "image": "./images/chicken-fajita-pasta/ingredients/redbellpepper.jpeg"
+    },
+    {
+      "name": "orange bell pepper",
+      "quantity": {
+        "measure": "1",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "green bell pepper",
+      "quality_characteristic": "chopped",
+      "image": "./images/chicken-fajita-pasta/ingredients/orangebellpepper.jpeg"
+    },
+    {
+      "name": "red onion",
+      "quantity": {
+        "measure": "1",
+        "unit": ""
+      },
+      "allergies": {
+        "id": "",
+        "category": "allium",
+        "ref": [
+          "https://farrp.unl.edu/informallalliums"
+        ],
+        "details": ""
+      },
+      "alternative": "white onion",
+      "quality_characteristic": "chopped",
+      "image": "./images/chicken-fajita-pasta/ingredients/redonion.jpeg"
+    },
+    {
+      "name": "spinach",
+      "quantity": {
+        "measure": "1",
+        "unit": "bunch"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "kale",
+      "quality_characteristic": "chopped",
+      "image": "./images/chicken-fajita-pasta/ingredients/spinach.jpeg"
+    },
+    {
+      "name": "chicken breast",
+      "quantity": {
+        "measure": "2",
+        "unit": "large"
+      },
+      "allergies": {
+        "id": "0xb74d",
+        "category": [
+          "meat"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallothers"
+        ],
+        "details": ""
+      },
+      "alternative": "tofu",
+      "quality_characteristic": "cut into cubes",
+      "image": "./images/chicken-fajita-pasta/ingredients/chickenbreast.jpeg"
+    },
+    {
+      "name": "bowtie pasta",
+      "quantity": {
+        "measure": "1",
+        "unit": "lb"
+      },
+      "allergies": {
+        "id": "0x1aa",
+        "category": [
+          "gluten"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallwheat"
+        ],
+        "details": ""
+      },
+      "alternative": "penne pasta",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/bowtiepasta.jpeg"
+    },
+    {
+      "name": "cream cheese",
+      "quantity": {
+        "measure": "8",
+        "unit": "oz"
+      },
+      "allergies": {
+        "id": "0x92a",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "vegan cream cheese",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/creamcheese.jpeg"
+    },
+    {
+      "name": "shredded mexican style cheese",
+      "quantity": {
+        "measure": "8",
+        "unit": "oz"
+      },
+      "allergies": {
+        "id": "0x92a",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "cheddar cheese",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/mexicancheese.jpeg"
+    },
+    {
+      "name": "heavy whipping cream",
+      "quantity": {
+        "measure": "0.25",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "0x92a",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "half and half",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/heavycream.jpeg"
+    },
+    {
+      "name": "milk",
+      "quantity": {
+        "measure": "0.5",
+        "unit": "cup"
+      },
+      "allergies": {
+        "id": "0x92a",
+        "category": [
+          "dairy"
+        ],
+        "ref": [
+          "https://farrp.unl.edu/informallmilk"
+        ],
+        "details": ""
+      },
+      "alternative": "oat milk",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/milk.jpeg"
+    },
+    {
+      "name": "taco seasoning",
+      "quantity": {
+        "measure": "2",
+        "unit": "packets"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "homemade spice mix",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/tacoseasoning.jpeg"
+    },
+    {
+      "name": "olive oil",
+      "quantity": {
+        "measure": "1",
+        "unit": "tbsp"
+      },
+      "allergies": {
+        "id": "",
+        "category": "",
+        "ref": "",
+        "details": ""
+      },
+      "alternative": "canola oil",
+      "quality_characteristic": "",
+      "image": "./images/chicken-fajita-pasta/ingredients/oliveoil.jpeg"
+    }
+  ],
+  "hasDairy": true,
+  "hasMeat": true,
+  "hasNuts": false,
+  "prep_time": "15 minutes",
+  "cook_time": "30 minutes",
+  "serves": "6",
+  "instructions": [
+    {
+      "original_text": "Boil the bowtie pasta in water with a heavy pinch of salt. Boil for five minutes, drain and set aside.",
+      "input_condition": [
+        "have_pot",
+        "have_water",
+        "have_salt",
+        "have_bowtie_pasta"
+      ],
+      "task": [
+        {
+          "action_name": "Fill pot with water and add salt.",
+          "output_quality": [
+            "Water is adequately salted."
+          ],
+          "background_knowledge": {
+            "tool": ["pot"],
+            "failure": ["unsalted pasta"]
+          }
+        },
+        {
+          "action_name": "Boil bowtie pasta for five minutes.",
+          "output_quality": [
+            "Pasta should be tender but not mushy."
+          ],
+          "background_knowledge": {
+            "tool": ["stove"],
+            "failure": ["overcooked pasta"]
+          }
+        },
+        {
+          "action_name": "Drain pasta and set aside.",
+          "output_quality": [
+            "Pasta should be free from excess water."
+          ],
+          "background_knowledge": {
+            "tool": ["colander"],
+            "failure": ["pasta too wet"]
+          }
+        }
+      ],
+      "output_condition": ["have_cooked_pasta"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step1_boilingpasta.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Finely chop all your vegetables, remove any seeds prior to chopping. You should chop: three bell peppers, red onion and spinach to the same size pieces.",
+      "input_condition": [
+        "have_knife",
+        "have_cutting_board",
+        "have_bell_peppers",
+        "have_onion",
+        "have_spinach"
+      ],
+      "task": [
+        {
+          "action_name": "Remove seeds from bell peppers.",
+          "output_quality": [
+            "Peppers should be seed-free."
+          ],
+          "background_knowledge": {
+            "tool": ["knife"],
+            "failure": ["seeds left in peppers"]
+          }
+        },
+        {
+          "action_name": "Chop bell peppers, onion, and spinach evenly.",
+          "output_quality": [
+            "Vegetables should be of similar size."
+          ],
+          "background_knowledge": {
+            "tool": ["cutting board"],
+            "failure": ["uneven chopping"]
+          }
+        }
+      ],
+      "output_condition": ["have_chopped_vegetables"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step2_choppedveggies.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Add olive oil to the pot on medium heat. Add the peppers and onion. Sauté until onion is translucent, then add spinach and one taco seasoning packet. Stir to combine.",
+      "input_condition": [
+        "have_pot",
+        "have_olive_oil",
+        "have_chopped_vegetables",
+        "have_taco_seasoning"
+      ],
+      "task": [
+        {
+          "action_name": "Heat olive oil in pot over medium heat.",
+          "output_quality": [
+            "Oil should shimmer but not smoke."
+          ],
+          "background_knowledge": {
+            "tool": ["pot", "stove"],
+            "failure": ["oil burns"]
+          }
+        },
+        {
+          "action_name": "Add peppers and onion to pot.",
+          "output_quality": [
+            "Sauté until onion becomes translucent (5–8 min)."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": ["onions burnt"]
+          }
+        },
+        {
+          "action_name": "Add spinach and taco seasoning packet.",
+          "output_quality": [
+            "Vegetables should be evenly coated with seasoning."
+          ],
+          "background_knowledge": {
+            "tool": ["spatula"],
+            "failure": ["uneven seasoning"]
+          }
+        }
+      ],
+      "output_condition": ["have_cooked_vegetables"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step3_cookingveggies.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Cut your chicken breast into small cubes. Add the chicken to the vegetables. Cook for 5-8 minutes, or until the chicken has browned and is cooked through.",
+      "input_condition": [
+        "have_chicken",
+        "have_cooked_vegetables"
+      ],
+      "task": [
+        {
+          "action_name": "Cut chicken into small cubes.",
+          "output_quality": [
+            "Pieces are evenly sized."
+          ],
+          "background_knowledge": {
+            "tool": ["knife"],
+            "failure": ["uneven cooking"]
+          }
+        },
+        {
+          "action_name": "Add chicken cubes to vegetables and cook for 5–8 minutes.",
+          "output_quality": [
+            "Chicken should be browned and fully cooked."
+          ],
+          "background_knowledge": {
+            "tool": ["spatula"],
+            "failure": ["undercooked chicken"]
+          }
+        }
+      ],
+      "output_condition": ["have_cooked_chicken_vegetable_mix"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step4_cookingchicken.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Add cream cheese and heavy whipping cream to the chicken and vegetables. Turn heat to medium-low. Stir continuously until cream cheese melts.",
+      "input_condition": [
+        "have_cooked_chicken_vegetable_mix",
+        "have_cream_cheese",
+        "have_heavy_cream"
+      ],
+      "task": [
+        {
+          "action_name": "Add cream cheese and heavy cream to the pot.",
+          "output_quality": [
+            "Cream cheese begins to soften."
+          ],
+          "background_knowledge": {
+            "tool": ["spatula"],
+            "failure": ["cream cheese burns"]
+          }
+        },
+        {
+          "action_name": "Stir mixture continuously over medium-low heat.",
+          "output_quality": [
+            "Mixture becomes smooth and creamy."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": ["sauce clumps"]
+          }
+        }
+      ],
+      "output_condition": ["have_creamy_sauce"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step5_making_sauce.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Stir in shredded cheese and milk until it reaches the desired consistency.",
+      "input_condition": [
+        "have_creamy_sauce",
+        "have_shredded_cheese",
+        "have_milk"
+      ],
+      "task": [
+        {
+          "action_name": "Gradually add shredded cheese to sauce.",
+          "output_quality": [
+            "Cheese melts evenly."
+          ],
+          "background_knowledge": {
+            "tool": ["spatula"],
+            "failure": ["sauce too thick"]
+          }
+        },
+        {
+          "action_name": "Add milk while stirring.",
+          "output_quality": [
+            "Sauce reaches smooth, creamy consistency."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": ["sauce too thin"]
+          }
+        }
+      ],
+      "output_condition": ["have_cheese_sauce"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step6_addingcheese.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Add the second taco seasoning packet. Stir and add pasta back into the pot.",
+      "input_condition": [
+        "have_cheese_sauce",
+        "have_cooked_pasta",
+        "have_taco_seasoning"
+      ],
+      "task": [
+        {
+          "action_name": "Add second taco seasoning packet.",
+          "output_quality": [
+            "Evenly mixed into sauce."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": ["uneven flavor"]
+          }
+        },
+        {
+          "action_name": "Add cooked pasta slowly and stir to combine.",
+          "output_quality": [
+            "Pasta is fully coated with sauce."
+          ],
+          "background_knowledge": {
+            "tool": ["spatula"],
+            "failure": ["pasta breaks apart"]
+          }
+        }
+      ],
+      "output_condition": ["have_combined_pasta_dish"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step7_combiningpasta.jpg"],
+        "video": ""
+      }
+    },
+    {
+      "original_text": "Turn off heat, allow to sit for 3–5 minutes, and serve.",
+      "input_condition": [
+        "have_combined_pasta_dish"
+      ],
+      "task": [
+        {
+          "action_name": "Turn off heat and let dish sit for 3–5 minutes.",
+          "output_quality": [
+            "Sauce thickens slightly."
+          ],
+          "background_knowledge": {
+            "tool": [],
+            "failure": ["served too hot"]
+          }
+        },
+        {
+          "action_name": "Serve warm.",
+          "output_quality": [
+            "Dish ready to eat."
+          ],
+          "background_knowledge": {
+            "tool": ["plate", "serving spoon"],
+            "failure": []
+          }
+        }
+      ],
+      "output_condition": ["recipe_complete"],
+      "modality": {
+        "image": ["./images/chicken-fajita-pasta/step8_serving.jpg"],
+        "video": ""
+      }
+    }
+  ]
+}
+>>>>>>> b6531bf9f75ce03234bd0995b03675c6311d01a9

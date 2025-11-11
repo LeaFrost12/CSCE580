@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Zero-shot, with context
 PF1: You must convert a recipe from plain text into R3 json format. 
@@ -13,3 +14,20 @@ PF3: You must convert a recipe from plain text into R3 json format.
 The instructions should be in concise plain english sentences with one task at a time.
 Here is an example of an R3 json format: <Egg drop soup example>
 Convert this recipe into the R3 json format provided above: <recipe text>
+=======
+
+Zero-shot, with context
+PF1: You must convert a recipe from plain text into R3 json format. 
+The instructions should be in concise plain english sentences with one task at a time.
+Here is the recipe text: 
+
+One-shot, no context
+PF2: Here is an example of an R3 json format: <Egg drop soup example>
+Convert this recipe into the R3 json format: <recipe text>
+
+One-shot, with context
+PF3: You must convert a recipe from plain text into R3 json format. 
+The instructions should be in concise plain english sentences with one task at a time.
+Here is an example of an R3 json format: <Egg drop soup example>
+Convert this recipe into the R3 json format provided above: <recipe text>
+>>>>>>> b6531bf9f75ce03234bd0995b03675c6311d01a9

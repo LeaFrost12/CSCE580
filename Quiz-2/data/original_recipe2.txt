@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://www.instructables.com/Chicken-Fajita-Pasta-Recipe/
 
 Name: Chicken Fajita Pasta
@@ -67,4 +68,75 @@ Stir and combine, second taco seasoning packet. Once fully combined, add the bow
 Step 8: Let It Sit and Serve
 Let It Sit and Serve
 Let It Sit and Serve
+=======
+https://www.instructables.com/Chicken-Fajita-Pasta-Recipe/
+
+Name: Chicken Fajita Pasta
+
+This recipe, Chicken Fajita Pasta, represents an innovative fusion of traditional Mexican cuisine and Italian-inspired pasta dishes. Developed during my college years, the dish was crafted as an improvisational solution to utilizing available ingredients while balancing the need for flavor and nutritional value. The recipe integrates the savory, spiced essence of fajitas with the comforting, carb-rich qualities of pasta, creating a harmonious blend that appeals to both culinary exploration and practical kitchen management. This dish stands as an example of creative resourcefulness, demonstrating how pantry staples can be combined to yield a satisfying and unique meal.
+
+
+
+Supplies
+Supplies
+Ingredients:
+
+1 Yellow Bell Pepper
+
+1 Red Bell Pepper
+
+1 Orange Bell Pepper
+
+1 Red Onion
+
+1 Bunch of Spinach
+
+2 Large Chicken Breasts
+
+1lb of Bowtie Pasta
+
+8oz Cream Cheese
+
+8 oz Shredded Mexican Style Cheese
+
+¼ cup of Heavy Whipping Cream
+
+½ cup of Milk
+
+2 Taco Seasoning Packets
+
+1 Tbsp of Olive Oil
+
+Step 1: Boil the Pasta
+Boil the Pasta
+Boil the bowtie pasta in water with a heavy pinch of salt. Boil for five minutes, drain and set aside.
+
+Step 2: Prepare Your Veggies
+Prepare Your Veggies
+While pasta is cooking, finely chop all your vegetables, remove any seeds prior to chopping. (See Image below) You should chop: three bell peppers, red onion and spinach to the same size pieces.
+
+Step 3: Cook Your Veggies
+Cook Your Veggies
+Once you’ve set pasta to the side, using the same pot, add 1 tbsp of Olive Oil to the pan on Medium heat. Add the peppers and onion. Sauté until the onion is slightly translucent (about 5-8 minutes). Then add in the spinach and one taco seasoning packet. Stir to combine.
+
+Step 4: Add the Chicken
+Add the Chicken
+Cut your chicken breast into small cubes. Add the chicken to the vegetables. Cook for 5-8 minutes, or until the chicken has brown and is cooked through.
+
+Step 5: Make the Sauce
+Make the Sauce
+Add the 8 oz block of cream cheese and ¼ cup of heavy cream to the chicken and vegetable mixture. Turn the heat to Medium-low. Stir continuously.
+
+Step 6: Add the Cheese
+Add the Cheese
+Once the cream cheese has melted, stir in small handfuls of shredded cheese at a time and milk until it reaches the desired consistency of cheesiness.
+
+Step 7: Add the Pasta Back In
+Add the Pasta Back In
+Stir and combine, second taco seasoning packet. Once fully combined, add the bowtie pasta in slowly, stirring to combine.
+
+Step 8: Let It Sit and Serve
+Let It Sit and Serve
+Let It Sit and Serve
+>>>>>>> b6531bf9f75ce03234bd0995b03675c6311d01a9
 Turn off heat, allow to sit for 3-5 minutes, and serve.

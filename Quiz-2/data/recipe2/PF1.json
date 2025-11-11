@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "Chicken Fajita Pasta",
   "description": "An innovative fusion of Mexican fajitas and Italian pasta, combining spiced chicken and vegetables with creamy cheese sauce for a flavorful, hearty meal.",
@@ -102,3 +103,109 @@
     }
   ]
 }
+=======
+{
+  "name": "Chicken Fajita Pasta",
+  "description": "An innovative fusion of Mexican fajitas and Italian pasta, combining spiced chicken and vegetables with creamy cheese sauce for a flavorful, hearty meal.",
+  "ingredients": [
+    "1 Yellow Bell Pepper",
+    "1 Red Bell Pepper",
+    "1 Orange Bell Pepper",
+    "1 Red Onion",
+    "1 Bunch of Spinach",
+    "2 Large Chicken Breasts",
+    "1 lb Bowtie Pasta",
+    "8 oz Cream Cheese",
+    "8 oz Shredded Mexican Style Cheese",
+    "1/4 cup Heavy Whipping Cream",
+    "1/2 cup Milk",
+    "2 Taco Seasoning Packets",
+    "1 Tbsp Olive Oil"
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "title": "Boil the Pasta",
+      "instructions": [
+        "Fill a pot with water and add a heavy pinch of salt.",
+        "Bring the water to a boil.",
+        "Add the bowtie pasta to the boiling water.",
+        "Boil the pasta for five minutes.",
+        "Drain the pasta.",
+        "Set the pasta aside."
+      ]
+    },
+    {
+      "step": 2,
+      "title": "Prepare the Vegetables",
+      "instructions": [
+        "Finely chop the yellow, red, and orange bell peppers.",
+        "Remove seeds from the peppers before chopping.",
+        "Finely chop the red onion.",
+        "Chop the spinach into small pieces.",
+        "Set all chopped vegetables aside."
+      ]
+    },
+    {
+      "step": 3,
+      "title": "Cook the Vegetables",
+      "instructions": [
+        "Place the same pot back on the stove over medium heat.",
+        "Add 1 tablespoon of olive oil to the pot.",
+        "Add the chopped bell peppers and onion.",
+        "Sauté until the onion is slightly translucent, about 5 to 8 minutes.",
+        "Add the chopped spinach to the pot.",
+        "Add one packet of taco seasoning.",
+        "Stir to combine the vegetables and seasoning."
+      ]
+    },
+    {
+      "step": 4,
+      "title": "Cook the Chicken",
+      "instructions": [
+        "Cut the chicken breasts into small cubes.",
+        "Add the chicken cubes to the pot with the vegetables.",
+        "Cook for 5 to 8 minutes, or until the chicken is browned and fully cooked."
+      ]
+    },
+    {
+      "step": 5,
+      "title": "Make the Sauce",
+      "instructions": [
+        "Add the cream cheese block to the chicken and vegetables.",
+        "Add 1/4 cup of heavy whipping cream.",
+        "Turn the heat to medium-low.",
+        "Stir continuously until the cream cheese melts and combines with the mixture."
+      ]
+    },
+    {
+      "step": 6,
+      "title": "Add the Cheese",
+      "instructions": [
+        "Add small handfuls of shredded Mexican-style cheese to the pot.",
+        "Pour in the milk gradually while stirring.",
+        "Continue stirring until the sauce reaches the desired creamy consistency."
+      ]
+    },
+    {
+      "step": 7,
+      "title": "Combine the Pasta",
+      "instructions": [
+        "Add the second packet of taco seasoning to the pot.",
+        "Stir until everything is evenly combined.",
+        "Gradually add the cooked bowtie pasta to the sauce.",
+        "Stir well to coat the pasta with the sauce."
+      ]
+    },
+    {
+      "step": 8,
+      "title": "Finish and Serve",
+      "instructions": [
+        "Turn off the heat.",
+        "Let the pasta sit for 3 to 5 minutes to thicken.",
+        "Serve the Chicken Fajita Pasta warm."
+      ]
+    }
+  ]
+}
+>>>>>>> b6531bf9f75ce03234bd0995b03675c6311d01a9
