@@ -1,7 +1,8 @@
 from collections import deque
 
 
-class MCAgent:
+class MCAgent2:
+    print("hello")
     def __init__(self):
         pass
 
@@ -66,43 +67,31 @@ class MCAgent:
                         new_state.parent = curr_state
             return successor
 
-
-        #####################
-        def dfs():  # dfs
+        def bfs():  # breadth-first-search (BFS)
             initial_state = States(initial_missionaries, initial_cannibals, 0, 0, "left")  # root
             if initial_state.goal_state():
                 return initial_state
-            stack = [] # lifo instead of ffifo
+            queue = deque([])
             explored = []
-            stack.append(initial_state)
-            while stack:
-                node = stack.pop()
+            queue.append(initial_state)
+            while queue:
+                node = queue.popleft()
                 if node.goal_state():
                     return node
                 explored.append(node)
                 node_children = successors(node)
                 for child in node_children:
-                    if (child not in explored) and (child not in stack):
-                        stack.append(child)
+                    if (child not in explored) and (child not in queue):
+                        queue.append(child)
             return None
 
-        ##########
-
-
         def find_moves(result):
-            
             path = []
             final_path = []
             result_parent = result.parent
-            side = 0 # 0 = left, 1 = right
             while result_parent:
-                
                 move = (abs(result.left_missionaries - result_parent.left_missionaries),
-                        abs(result.left_cannibals - result_parent.left_cannibals), side)
-                if side == 0:
-                    side = 1
-                elif side == 1:
-                    side = 0
+                        abs(result.left_cannibals - result_parent.left_cannibals))
                 path.append(move)
                 result = result_parent
                 result_parent = result.parent
@@ -111,9 +100,8 @@ class MCAgent:
                 final_path.append(final_result)
             return final_path
 
-        solution = dfs()####
+        solution = bfs()
         if solution:
-            
             return find_moves(solution)
         else:
             return []
