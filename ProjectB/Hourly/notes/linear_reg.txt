@@ -1,0 +1,42 @@
+
+2024-1-1 to 2025-1-1
+- Best result: all numeric variables as input
+    - r2:   0.9982
+    - mae:  0.2467
+    - mse:  0.1338
+    - rmse: 0.3658
+- worse: 
+    - remove only lags
+        - r2:   0.9875
+        - mae:  0.7236
+        - mse:  0.9111
+        - rmse: 0.9545
+    - remove only time encoding
+        - r2:   0.9981
+        - mae:  0.2491
+        - mse:  0.1368
+        - rmse: 0.3698
+
+
+2020-1-1 to 2025-1-1
+- Best: all
+    R2: 	0.9980
+    MAE: 	0.2581
+    MSE:  	0.1448
+    RMSE: 	0.3806
+- worse:
+    - exclude time
+        R2: 	0.9980
+        MAE: 	0.2594
+        MSE:  	0.1469
+        RMSE: 	0.3833
+    - exclude lag
+        R2: 	0.9848
+        MAE: 	0.7718
+        MSE:  	1.1178
+        RMSE: 	1.0572
+
+Temp
+    - Removing lag, roll, time, sum worsens results
+    - Removing temp features worsense results
+    - Basically removing anythong worsens results

@@ -1,0 +1,58 @@
+
+_________________________
+Step 1: preprocess.ipynb
+Preprocess dataset
+TODO: stationarity? differencing
+
+Fill NaN prcp as 0
+Add prcp flag (0 or 1)
+Impute missing timestamps
+Standardize numeric variables and clip outliers
+Encode time using sin/cos for cyclicality
+Encode wind speed using sin/cos for circularity
+Add lag variables for numeric vars
+
+
+__________________________________
+Step 2: linear_reg.ipynb
+Linear regression
+Encoding: cyclical
+
+________________________
+Step 3: logistic_reg.ipynb
+Logistic regression
+Encoding: cyclical
+Fourier?
+_________________________
+Step 4: random_forest.ipynb
+Random forest
+Encoding: numeric (df['month'] = df.index.month, etc)
+
+Temperature
+Excluding roll, time, lag, sum improves results
+Best results: exclude everything including temp
+
+precipitation
+Include everything?
+_________________________
+Step 5: 
+Add temporal dependency (lag)
+_________________________
+Step : vector_ar.ipynb
+Vector autoregression
+Encoding: none (uses lag automatically)
+Stationarity required
+_________________________
+Step : varima.ipynb
+VARIMA
+Encoding: none, optionally pass cyclical as exog
+Fourier?
+Stationarity required
+_________________________
+Step : lstm.ipynb
+LSTM
+Encoding: cyclical, elapsed time index, lag
+df['time_idx'] = np.arange(len(df))
+Fourier?
+
+

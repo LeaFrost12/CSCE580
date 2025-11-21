@@ -1,0 +1,9 @@
+
+
+
+temperature
+    - excluding temp decreased performance
+    - excluding roll slightly decreased performance
+    - excluding lag slightly decreased performance
+    - excluding time slightly decreased performance
+    - excluding dewpoint decreased performance
